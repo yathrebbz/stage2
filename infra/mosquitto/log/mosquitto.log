@@ -1,0 +1,246 @@
+1787789064: mosquitto version 2.0.22 starting
+1787789064: Config loaded from /mosquitto/config/mosquitto.conf.
+1787789064: Opening ipv4 listen socket on port 1883.
+1787789064: Opening ipv6 listen socket on port 1883.
+1787789064: mosquitto version 2.0.22 running
+1787789094: New connection from ::1:35580 on port 1883.
+1787789094: New client connected from ::1:35580 as healthcheck (p2, c1, k60).
+1787789094: Client healthcheck closed its connection.
+1787789125: New connection from ::1:36152 on port 1883.
+1787789125: New client connected from ::1:36152 as healthcheck (p2, c1, k60).
+1787789125: Client healthcheck closed its connection.
+1787789155: New connection from ::1:54824 on port 1883.
+1787789155: New client connected from ::1:54824 as healthcheck (p2, c1, k60).
+1787789155: Client healthcheck closed its connection.
+1787789185: New connection from ::1:56576 on port 1883.
+1787789185: New client connected from ::1:56576 as healthcheck (p2, c1, k60).
+1787789185: Client healthcheck closed its connection.
+1787789215: New connection from ::1:43264 on port 1883.
+1787789215: New client connected from ::1:43264 as healthcheck (p2, c1, k60).
+1787789215: Client healthcheck closed its connection.
+1787789245: New connection from ::1:33802 on port 1883.
+1787789245: New client connected from ::1:33802 as healthcheck (p2, c1, k60).
+1787789245: Client healthcheck closed its connection.
+1787789275: New connection from ::1:39666 on port 1883.
+1787789275: New client connected from ::1:39666 as healthcheck (p2, c1, k60).
+1787789275: Client healthcheck closed its connection.
+1787789305: New connection from ::1:41814 on port 1883.
+1787789305: New client connected from ::1:41814 as healthcheck (p2, c1, k60).
+1787789305: Client healthcheck closed its connection.
+1787789335: New connection from ::1:39938 on port 1883.
+1787789335: New client connected from ::1:39938 as healthcheck (p2, c1, k60).
+1787789335: Client healthcheck closed its connection.
+1787789341: mosquitto version 2.0.22 terminating
+1787789341: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1787789341: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1787789341: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1787789341: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1787789661: mosquitto version 2.0.22 starting
+1787789661: Config loaded from /mosquitto/config/mosquitto.conf.
+1787789661: Opening ipv4 listen socket on port 1883.
+1787789661: Opening ipv6 listen socket on port 1883.
+1787789661: mosquitto version 2.0.22 running
+1787789691: New connection from ::1:59502 on port 1883.
+1787789691: New client connected from ::1:59502 as healthcheck (p2, c1, k60).
+1787789691: Client healthcheck closed its connection.
+1787789721: New connection from ::1:51950 on port 1883.
+1787789721: New client connected from ::1:51950 as healthcheck (p2, c1, k60).
+1787789721: Client healthcheck closed its connection.
+1787789751: New connection from ::1:53654 on port 1883.
+1787789751: New client connected from ::1:53654 as healthcheck (p2, c1, k60).
+1787789751: Client healthcheck closed its connection.
+1787789781: New connection from ::1:47648 on port 1883.
+1787789781: New client connected from ::1:47648 as healthcheck (p2, c1, k60).
+1787789781: Client healthcheck closed its connection.
+1787789811: New connection from ::1:44376 on port 1883.
+1787789811: New client connected from ::1:44376 as healthcheck (p2, c1, k60).
+1787789811: Client healthcheck closed its connection.
+1787789842: New connection from ::1:44830 on port 1883.
+1787789842: New client connected from ::1:44830 as healthcheck (p2, c1, k60).
+1787789842: Client healthcheck closed its connection.
+1787789872: New connection from ::1:37956 on port 1883.
+1787789872: New client connected from ::1:37956 as healthcheck (p2, c1, k60).
+1787789872: Client healthcheck closed its connection.
+1787789902: New connection from ::1:41982 on port 1883.
+1787789902: New client connected from ::1:41982 as healthcheck (p2, c1, k60).
+1787789902: Client healthcheck closed its connection.
+1787789932: New connection from ::1:38336 on port 1883.
+1787789932: New client connected from ::1:38336 as healthcheck (p2, c1, k60).
+1787789932: Client healthcheck closed its connection.
+1787789962: New connection from ::1:34672 on port 1883.
+1787789962: New client connected from ::1:34672 as healthcheck (p2, c1, k60).
+1787789962: Client healthcheck closed its connection.
+1787789992: New connection from ::1:50062 on port 1883.
+1787789992: New client connected from ::1:50062 as healthcheck (p2, c1, k60).
+1787789992: Client healthcheck closed its connection.
+1787790022: New connection from ::1:40614 on port 1883.
+1787790022: New client connected from ::1:40614 as healthcheck (p2, c1, k60).
+1787790022: Client healthcheck closed its connection.
+1787790053: New connection from ::1:43734 on port 1883.
+1787790053: New client connected from ::1:43734 as healthcheck (p2, c1, k60).
+1787790053: Client healthcheck closed its connection.
+1787790083: New connection from ::1:52654 on port 1883.
+1787790083: New client connected from ::1:52654 as healthcheck (p2, c1, k60).
+1787790083: Client healthcheck closed its connection.
+1787790113: New connection from ::1:47554 on port 1883.
+1787790113: New client connected from ::1:47554 as healthcheck (p2, c1, k60).
+1787790113: Client healthcheck closed its connection.
+1787790143: New connection from ::1:50414 on port 1883.
+1787790143: New client connected from ::1:50414 as healthcheck (p2, c1, k60).
+1787790143: Client healthcheck closed its connection.
+1787790173: New connection from ::1:37022 on port 1883.
+1787790173: New client connected from ::1:37022 as healthcheck (p2, c1, k60).
+1787790173: Client healthcheck closed its connection.
+1787790203: New connection from ::1:59824 on port 1883.
+1787790203: New client connected from ::1:59824 as healthcheck (p2, c1, k60).
+1787790203: Client healthcheck closed its connection.
+1787790233: New connection from ::1:54424 on port 1883.
+1787790233: New client connected from ::1:54424 as healthcheck (p2, c1, k60).
+1787790233: Client healthcheck closed its connection.
+1787790264: New connection from ::1:35832 on port 1883.
+1787790264: New client connected from ::1:35832 as healthcheck (p2, c1, k60).
+1787790264: Client healthcheck closed its connection.
+1787790294: New connection from ::1:53074 on port 1883.
+1787790294: New client connected from ::1:53074 as healthcheck (p2, c1, k60).
+1787790294: Client healthcheck closed its connection.
+1787790324: New connection from ::1:57314 on port 1883.
+1787790324: New client connected from ::1:57314 as healthcheck (p2, c1, k60).
+1787790324: Client healthcheck closed its connection.
+1787790354: New connection from ::1:39738 on port 1883.
+1787790354: New client connected from ::1:39738 as healthcheck (p2, c1, k60).
+1787790354: Client healthcheck closed its connection.
+1787790384: New connection from ::1:43604 on port 1883.
+1787790384: New client connected from ::1:43604 as healthcheck (p2, c1, k60).
+1787790384: Client healthcheck closed its connection.
+1787790414: New connection from ::1:49456 on port 1883.
+1787790414: New client connected from ::1:49456 as healthcheck (p2, c1, k60).
+1787790414: Client healthcheck closed its connection.
+1787790444: New connection from ::1:53080 on port 1883.
+1787790444: New client connected from ::1:53080 as healthcheck (p2, c1, k60).
+1787790444: Client healthcheck closed its connection.
+1787790474: New connection from ::1:50150 on port 1883.
+1787790474: New client connected from ::1:50150 as healthcheck (p2, c1, k60).
+1787790474: Client healthcheck closed its connection.
+1787790505: New connection from ::1:58458 on port 1883.
+1787790505: New client connected from ::1:58458 as healthcheck (p2, c1, k60).
+1787790505: Client healthcheck closed its connection.
+1787790535: New connection from ::1:49440 on port 1883.
+1787790535: New client connected from ::1:49440 as healthcheck (p2, c1, k60).
+1787790535: Client healthcheck closed its connection.
+1787790565: New connection from ::1:57102 on port 1883.
+1787790565: New client connected from ::1:57102 as healthcheck (p2, c1, k60).
+1787790565: Client healthcheck closed its connection.
+1787790595: New connection from ::1:58358 on port 1883.
+1787790595: New client connected from ::1:58358 as healthcheck (p2, c1, k60).
+1787790595: Client healthcheck closed its connection.
+1787790625: New connection from ::1:56670 on port 1883.
+1787790625: New client connected from ::1:56670 as healthcheck (p2, c1, k60).
+1787790625: Client healthcheck closed its connection.
+1787790655: New connection from ::1:58878 on port 1883.
+1787790655: New client connected from ::1:58878 as healthcheck (p2, c1, k60).
+1787790655: Client healthcheck closed its connection.
+1787790685: New connection from ::1:42006 on port 1883.
+1787790685: New client connected from ::1:42006 as healthcheck (p2, c1, k60).
+1787790685: Client healthcheck closed its connection.
+1787790715: New connection from ::1:34472 on port 1883.
+1787790715: New client connected from ::1:34472 as healthcheck (p2, c1, k60).
+1787790716: Client healthcheck closed its connection.
+1787790746: New connection from ::1:60400 on port 1883.
+1787790746: New client connected from ::1:60400 as healthcheck (p2, c1, k60).
+1787790746: Client healthcheck closed its connection.
+1787790776: New connection from ::1:58534 on port 1883.
+1787790776: New client connected from ::1:58534 as healthcheck (p2, c1, k60).
+1787790776: Client healthcheck closed its connection.
+1787790806: New connection from ::1:56202 on port 1883.
+1787790806: New client connected from ::1:56202 as healthcheck (p2, c1, k60).
+1787790806: Client healthcheck closed its connection.
+1787790836: New connection from ::1:52538 on port 1883.
+1787790836: New client connected from ::1:52538 as healthcheck (p2, c1, k60).
+1787790836: Client healthcheck closed its connection.
+1787790866: New connection from ::1:58242 on port 1883.
+1787790866: New client connected from ::1:58242 as healthcheck (p2, c1, k60).
+1787790866: Client healthcheck closed its connection.
+1787790896: New connection from ::1:40078 on port 1883.
+1787790896: New client connected from ::1:40078 as healthcheck (p2, c1, k60).
+1787790896: Client healthcheck closed its connection.
+1787790926: New connection from ::1:47758 on port 1883.
+1787790926: New client connected from ::1:47758 as healthcheck (p2, c1, k60).
+1787790926: Client healthcheck closed its connection.
+1787790957: New connection from ::1:42732 on port 1883.
+1787790957: New client connected from ::1:42732 as healthcheck (p2, c1, k60).
+1787790957: Client healthcheck closed its connection.
+1787790987: New connection from ::1:37630 on port 1883.
+1787790987: New client connected from ::1:37630 as healthcheck (p2, c1, k60).
+1787790987: Client healthcheck closed its connection.
+1787791017: New connection from ::1:41296 on port 1883.
+1787791017: New client connected from ::1:41296 as healthcheck (p2, c1, k60).
+1787791017: Client healthcheck closed its connection.
+1787791047: New connection from ::1:47768 on port 1883.
+1787791047: New client connected from ::1:47768 as healthcheck (p2, c1, k60).
+1787791047: Client healthcheck closed its connection.
+1787791077: New connection from ::1:38240 on port 1883.
+1787791077: New client connected from ::1:38240 as healthcheck (p2, c1, k60).
+1787791077: Client healthcheck closed its connection.
+1787791107: New connection from ::1:41660 on port 1883.
+1787791107: New client connected from ::1:41660 as healthcheck (p2, c1, k60).
+1787791107: Client healthcheck closed its connection.
+1787791137: New connection from ::1:42664 on port 1883.
+1787791137: New client connected from ::1:42664 as healthcheck (p2, c1, k60).
+1787791137: Client healthcheck closed its connection.
+1787791167: New connection from ::1:46888 on port 1883.
+1787791167: New client connected from ::1:46888 as healthcheck (p2, c1, k60).
+1787791168: Client healthcheck closed its connection.
+1787791198: New connection from ::1:55284 on port 1883.
+1787791198: New client connected from ::1:55284 as healthcheck (p2, c1, k60).
+1787791198: Client healthcheck closed its connection.
+1787791228: New connection from ::1:37748 on port 1883.
+1787791228: New client connected from ::1:37748 as healthcheck (p2, c1, k60).
+1787791228: Client healthcheck closed its connection.
+1787791258: New connection from ::1:41946 on port 1883.
+1787791258: New client connected from ::1:41946 as healthcheck (p2, c1, k60).
+1787791258: Client healthcheck closed its connection.
+1787791288: New connection from ::1:42960 on port 1883.
+1787791288: New client connected from ::1:42960 as healthcheck (p2, c1, k60).
+1787791288: Client healthcheck closed its connection.
+1787791318: New connection from ::1:53650 on port 1883.
+1787791318: New client connected from ::1:53650 as healthcheck (p2, c1, k60).
+1787791318: Client healthcheck closed its connection.
+1787791348: New connection from ::1:48128 on port 1883.
+1787791348: New client connected from ::1:48128 as healthcheck (p2, c1, k60).
+1787791348: Client healthcheck closed its connection.
+1787791378: New connection from ::1:58282 on port 1883.
+1787791378: New client connected from ::1:58282 as healthcheck (p2, c1, k60).
+1787791378: Client healthcheck closed its connection.
+1787791405: mosquitto version 2.0.22 terminating
+1787791405: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1787791405: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1787791405: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1787791405: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1787792270: mosquitto version 2.0.22 starting
+1787792270: Config loaded from /mosquitto/config/mosquitto.conf.
+1787792270: Opening ipv4 listen socket on port 1883.
+1787792270: Opening ipv6 listen socket on port 1883.
+1787792270: mosquitto version 2.0.22 running
+1787792300: New connection from ::1:52384 on port 1883.
+1787792300: New client connected from ::1:52384 as healthcheck (p2, c1, k60).
+1787792300: Client healthcheck closed its connection.
+1787792330: New connection from ::1:47300 on port 1883.
+1787792330: New client connected from ::1:47300 as healthcheck (p2, c1, k60).
+1787792330: Client healthcheck closed its connection.
+1787792360: New connection from ::1:33138 on port 1883.
+1787792360: New client connected from ::1:33138 as healthcheck (p2, c1, k60).
+1787792360: Client healthcheck closed its connection.
+1787792391: New connection from ::1:44146 on port 1883.
+1787792391: New client connected from ::1:44146 as healthcheck (p2, c1, k60).
+1787792391: Client healthcheck closed its connection.
+1787792421: New connection from ::1:42372 on port 1883.
+1787792421: New client connected from ::1:42372 as healthcheck (p2, c1, k60).
+1787792421: Client healthcheck closed its connection.
+1787792428: mosquitto version 2.0.22 terminating
+1787792428: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1787792428: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1787792428: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1787792428: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
